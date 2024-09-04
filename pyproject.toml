@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "eda - enem"
+version = "0.1.0"
+description = "This is one of my first projects in Data Science. The objective is to not only gather information about the ENEM (Brazil's High School's Exam) but also get into python libraries that support this project."
+authors = ["NicolasSP90 <nicolassp90@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.*"
+ipykernel = "^6.29.5"
+pandas = "^2.2.2"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+plotly = "^5.24.0"
+pyarrow = "^17.0.0"
+nbformat = "^5.10.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

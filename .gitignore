@@ -1,0 +1,4 @@
+\.venv
+\.vscode
+data/enem_2023.csv
+data/enem_2023.parquet
