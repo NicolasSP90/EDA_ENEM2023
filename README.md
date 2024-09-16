@@ -8,6 +8,8 @@
 ![ipykernel](https://img.shields.io/badge/ipykernel-3670A0?style=for-the-badge)
 ![pyarrow](https://img.shields.io/badge/pyarrow-222832?style=for-the-badge)
 
+---
+
 # Análise Exploratória de Dados (EDA)
 
 O projeto atual tem diversos objetivos.
